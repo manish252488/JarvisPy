@@ -1,0 +1,14 @@
+trigger,type,executor,name,command
+start,application,cmd,firefox,start firefox
+start,appication,cmd,mozilla,start firefox
+start,application,cmd,file,start explorer
+start,application,cmd,explorer,start explorer
+start,application,cmd,volume,start sndvol
+start,application,cmd,sound,start sndvol
+start,application,cmd,vol,start sndvol
+start,application,cmd,noise,start sndvol
+start,application,cmd,command prompt,start cmd
+start,application,cmd,cmd,start cmd
+start,application,cmd,shell,start cmd
+start,application,cmd,prompt,start cmd
+start,application,cmd,commandline,start cmd
